@@ -147,16 +147,7 @@ https://github.com/sta0ne/<your-netflix-repo>
 </table>
 ---
 
----
-
 # 💻 Quote
 
 > *"Transforming raw data into meaningful insights through scalable data engineering."*
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sta0ne&label=Profile+Views&color=blue&style=flat"/>
-
-</p>
