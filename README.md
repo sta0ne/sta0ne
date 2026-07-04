@@ -145,33 +145,6 @@ https://github.com/sta0ne/<your-netflix-repo>
 </td>
 </tr>
 </table>
-## 📊 Superstore Data Engineering Pipeline
-
-✔ Bronze → Silver → Gold Architecture
-
-✔ PySpark Data Transformation
-
-✔ Incremental Loading
-
-✔ AWS S3
-
-✔ AWS Glue
-
-✔ Amazon Athena
-
-✔ Data Quality Checks
-
----
-
-## 📺 Netflix SQL Analysis
-
-- SQL Data Cleaning
-- Business Insights
-- Window Functions
-- CTEs
-- Joins
-- Aggregations
-
 ---
 
 ---
