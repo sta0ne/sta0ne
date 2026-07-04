@@ -145,6 +145,7 @@ https://github.com/sta0ne/netflix_sql_project
 </td>
 </tr>
 </table>
+
 ---
 
 # 💻 Quote
