@@ -78,7 +78,7 @@ PySpark • Databricks • SQL • Parquet
 - 📊 Built Reporting Tables
 
 🔗 Repository:
-https://github.com/sta0ne/<your-superstore-repo>
+https://github.com/sta0ne/End-to-End-ETL-Pipeline-using-PySpark
 
 </td>
 
@@ -98,7 +98,7 @@ AWS Glue • Amazon S3 • Athena • Glue Catalog
 - Data Catalog Integration
 
 🔗 Repository:
-https://github.com/sta0ne/<your-glue-repo>
+https://github.com/sta0ne/AWS-Glue-projectt
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ PySpark • Databricks • Spark SQL
 - Large Dataset Processing
 
 🔗 Repository:
-https://github.com/sta0ne/<your-pyspark-repo>
+https://github.com/sta0ne/pyspark-data-transformation-questions
 
 </td>
 
@@ -140,7 +140,7 @@ MySQL • SQL
 - Joins
 
 🔗 Repository:
-https://github.com/sta0ne/<your-netflix-repo>
+https://github.com/sta0ne/netflix_sql_project
 
 </td>
 </tr>
