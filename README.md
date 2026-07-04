@@ -60,6 +60,91 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+## 📊 Superstore Data Engineering ETL Pipeline
+
+### Tech Stack
+PySpark • Databricks • SQL • Parquet
+
+### Highlights
+- 🏗 Bronze → Silver → Gold Architecture
+- 📦 CSV to Parquet Conversion
+- 🧹 Data Cleaning & Validation
+- 📈 Gold Layer Analytics
+- ⚡ Optimized Query Performance
+- 📊 Built Reporting Tables
+
+🔗 Repository:
+https://github.com/sta0ne/<your-superstore-repo>
+
+</td>
+
+<td width="50%">
+
+## ☁ AWS Glue ETL Pipeline
+
+### Tech Stack
+AWS Glue • Amazon S3 • Athena • Glue Catalog
+
+### Highlights
+- ETL using AWS Glue Studio
+- Incremental Loading
+- Glue Job Bookmarks
+- CSV → Partitioned Parquet
+- Athena SQL Queries
+- Data Catalog Integration
+
+🔗 Repository:
+https://github.com/sta0ne/<your-glue-repo>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚡ PySpark Data Engineering
+
+### Tech Stack
+PySpark • Databricks • Spark SQL
+
+### Highlights
+- 20+ Data Transformation Challenges
+- Window Functions
+- Complex Joins
+- Performance Optimization
+- Data Cleaning
+- Large Dataset Processing
+
+🔗 Repository:
+https://github.com/sta0ne/<your-pyspark-repo>
+
+</td>
+
+<td width="50%">
+
+## 📺 Netflix SQL Analysis
+
+### Tech Stack
+MySQL • SQL
+
+### Highlights
+- Data Cleaning
+- Window Functions
+- CTEs
+- Business Insights
+- Aggregations
+- Joins
+
+🔗 Repository:
+https://github.com/sta0ne/<your-netflix-repo>
+
+</td>
+</tr>
+</table>
 ## 📊 Superstore Data Engineering Pipeline
 
 ✔ Bronze → Silver → Gold Architecture
