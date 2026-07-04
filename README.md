@@ -3,7 +3,7 @@
 <h3 align="center"> Data Engineer | PySpark | AWS | SQL | Databricks</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;PySpark+Developer;AWS+Cloud+Learner;Building+Scalable+ETL+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=+Data+Engineer;PySpark+Developer;AWS+Cloud+Learner;Building+Scalable+ETL+Pipelines" />
 </p>
 
 ---
